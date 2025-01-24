@@ -1,6 +1,6 @@
 # OCN-mouse-campus
 
-Un jeux de souris pour travailler le glisser / déposer et la précision. 
+Un jeu de souris pour travailler le glisser / déposer et la précision. 
 
 
 ## En live 
